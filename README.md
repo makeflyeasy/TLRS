@@ -1,6 +1,6 @@
 # TLRS #
 ## who I am? ##
-I'm an electrical engineer from makeflyeasy, an Ardupilot supporter, and a drone fanatic.
+I'm an electrical engineer from [makeflyeasy](http://en.makeflyeasy.com/) , an Ardupilot supporter, and a drone fanatic.
 
 ## Problems encountered ##
 
@@ -37,14 +37,21 @@ hope:
 * If there are drone enthusiasts who are good at Sik firmware development, welcome to join, I can provide a hardware development platform for free to facilitate software development and testing
 
 
-## Final thanks
+## Special thanks to！
 
 I decided to start this project because I couldn't find an LRS that would meet my fixed wing needs. I am very grateful for the thought inspiration provided by other open source LRS projects, listed below to express my gratitude!
 
-SiK radios: https://github.com/ArduPilot/SiK
+* SiK radios: https://github.com/ArduPilot/SiK
 
-OpenLRS: https://github.com/openLRSng/openLRSng
+* OpenLRS: https://github.com/openLRSng/openLRSng
 
-ExpressLRS: https://github.com/ExpressLRS/ExpressLRS
+* ExpressLRS: https://github.com/ExpressLRS/ExpressLRS
 
-mLRS: https://github.com/olliw42/mLRS
+* mLRS: https://github.com/olliw42/mLRS
+
+## Contact information
+* TLRS:https://github.com/makeflyeasy/TLRS
+
+* Discussion address:https://discuss.ardupilot.org/t/tlrs-lets-make-a-long-distance-telemetry-system-together/82365
+
+* Contact email: makeflyeasy@qq.com
